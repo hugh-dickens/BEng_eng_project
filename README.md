@@ -8,3 +8,4 @@ An example of some of the variables selected using a variety of ML methods withi
 
 A comparison of the ML methods at the different false discovery rates:
 
+![Fig1](https://user-images.githubusercontent.com/73748574/105071574-b12ea200-5a7c-11eb-925f-1239bf494659.jpg)
