@@ -1,6 +1,6 @@
 # BEng_research_project
 ## Description
-Statistical machine learning research carried out at Durham University. The research involved applying the knockoff filter for variable selection for the prediction of EV charging used given demographic data in the Netherlands. Confronted with data for >1M transactions and 32M meter readings for 52k users, pre-processing was carried out before performing variable selection on the accumulated data.
+Statistical machine learning research carried out at Durham University (2019-20). The research involved applying the knockoff filter for variable selection for the prediction of EV charging used given demographic data in the Netherlands. Confronted with data for >1M transactions and 32M meter readings for 52k users, pre-processing was carried out before performing variable selection on the accumulated data.
 
 An example of some of the variables selected using a variety of ML methods within the knockoff filter framework:
 
